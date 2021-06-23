@@ -1,0 +1,74 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+}
+.top {
+  background-color: #fbaccc;
+  padding-top: 100px;
+  margin: 0px;
+  font-family: 'Berkshire Swash', cursive; 
+}
+.middle {
+  padding-top: 50px;
+  padding: 20px;
+  background-color: #d9eeff;
+}
+.bottom {
+  background-color: #fbaccc;
+  padding-top: 50px;
+  margin: 0px;
+}
+hr {
+  width:20%;
+  border-top: 3px dashed;
+}
+h1 {
+  font-weight: 300;
+  font-size: xx-large;
+  margin-top: 0px;
+  position: relative;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.cont{
+  position: relative;
+  bottom: 0px;
+}
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+.char {
+  position: relative;
+  bottom: 340px;
+  left: 180px;
+}
+.bottom-cloud {
+  position: relative;
+  bottom: 270px;
+  right: 190px;
+}
+.mount {
+  margin: 0px;
+  position: relative;
+  right: 180px;
+  top: 6px;
+}
+.insta{
+  margin-left: 15px;
+}
+
+a:hover {
+  color: crimson;
+}
+.anime{
+  position: fixed;
+  top: 100px;
+  left: 1500px;
+}
+.reuel{
+  position: fixed;
+  top: 200px;
+  left: 1450px;
+}
